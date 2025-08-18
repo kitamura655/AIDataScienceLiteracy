@@ -57,7 +57,7 @@
 │   └── sampleimage.jpg		    #サンプル画像
 ├── Chapter_3_Data		#第3章
 │   ├── *.jpg	 		    #様々なサンプル画像
-│   └── videosample.mp3		    #サンプル映像
+│   └── videosample.mp3		    #サンプル動画
 ├── Chapter_4_Data		#第4章
 │   └── car.mp3			    #車の音
 ├── Chapter_5_Data		#第5章
@@ -157,4 +157,4 @@ Wolfram言語の最新情報については，以下のホームページをご�
 
 ## その他
 
-
+> このページはGitHubで生成されています．左の "View the Project on GitHub" をクリックすると，このサイトの元データや更新履歴が置いてある GitHub のページに移動します．
