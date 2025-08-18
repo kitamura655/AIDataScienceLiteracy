@@ -51,35 +51,45 @@
 <pre>
 .
 ├── Readme.txt        		#フォルダ構成説明ファイル	
+├── Chapter_1_Data		#第1章
+│   └── cat*.jpg		    #猫の画像
+├── Chapter_2_Data		#第2章
+│   └── sampleimage.jpg		    #サンプル画像
+├── Chapter_3_Data		#第3章
+│   ├── *.jpg	 		    #様々なサンプル画像
+│   └── videosample.mp3		    #サンプル映像
 ├── Chapter_4_Data		#第4章
 │   └── car.mp3			    #車の音
 ├── Chapter_5_Data		#第5章
-│   ├── 5-4-snacks-sample	 #5-4 お菓子の写真データ
-│   │   ├── kinoko		    #きのこの山
-│   │   │   ├── kinoko*.jpg
-│   │   ├── takenoko		    #たけのこの里
-│   │       ├──take*.jpg
-│   └── 5-6-animals-sample	 #5-6 動物の写真データ
-│       ├── cats		    #猫
-│       │   ├── cat*.jpg
-│       ├── dogs		    #犬
-│       │   ├── dog1.jpg
-│       └── tigers	   	    #虎
-│           ├── tiger*.jpg
+│   ├── 5-4-snacks-sample	 #5-4 お菓子の画像データ
+│   │   ├── kinoko		    #きのこの山の画像
+│   │   │   └── kinoko*.jpg
+│   │   ├── takenoko		    #たけのこの里の画像
+│   │       └── take*.jpg
+│   └── 5-6-animals-sample	 #5-6 動物の画像データ
+│       ├── cats		    #猫の画像
+│       │   └── cat*.jpg
+│       ├── dogs		    #犬の画像
+│       │   └── dog*.jpg
+│       └── tigers	   	    #虎の画像
+│           └── tiger*.jpg
 ├── Chapter_6_Data		#第6章
-│   └── hashire_morph.txt	    #走れメロス冒頭文テキスト
+│   └── hashire_*.txt	            #走れメロス冒頭文実習用テキスト
+├── Chapter_7_Data		#第7章
+│   └── testsampledata.xls	    #統計実習サンプルデータ
 ├── Practice_4_Data		#実践編4
 │   ├── birds			    #鳥の鳴き声
-│   │   ├── birds*.mp3
+│   │    └── birds*.mp3
 │   ├── cats			    #猫の鳴き声
-│   │   ├── cats*.mp3
+│   │    └── cats*.mp3
 │   └── cows			    #牛の鳴き声
-│       ├── cows*.mp3
-├── Practice_5_Data		#実践編5（形態素解析済みテキスト）
-│   ├ *.txt			    #文学作品のテキスト（例：源氏物語 桐壺)
+│        └── cows*.mp3
+└── Practice_5_Data		#実践編5
+    └── *.txt			    #文学作品の形態素解析済みテキスト（例：源氏物語 桐壺)
 
 </pre>
 
+> 上記のファイル名の * は複数のファイルがあることを示します．
 
 > ダウンロードが開始されない場合は，右クリックして「名前を付けてリンク先を保存」を選んでください．
 
