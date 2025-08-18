@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: 本書サポートページ
+logo: img/book.png
+description: 『手を動かしながらやさしく学べるはじめてのAIデータサイエンスリテラシー』のサポートページです。
+show_downloads: false
